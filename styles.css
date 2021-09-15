@@ -1,0 +1,85 @@
+body {
+  text-align: center;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 16px;
+  background-color: hsl(225, 100%, 94%);
+
+}
+
+.landing-page {
+  background-color: white;
+  border-radius: 20px;
+  width: 30%;
+  position: absolute;
+  top: 50px;
+  left: 500px;
+
+}
+
+.image-1 {
+  width:100%;
+  border-radius: 20px 20px 0 0;
+}
+
+.page-description {
+  margin-top: 40px;
+}
+
+.sub-box {
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 20px;
+  margin: 0 10%;
+  width: 80%;
+}
+
+.sub-box-1 {
+  width: 12.5%;
+  float: left;
+  margin-top: 1em;
+  margin-left: 1em;
+}
+
+.sub-box-2 {
+  display: inline-block;
+  margin: 1em 5em 1em 1em;
+}
+
+.sub-box-3 {
+display:inline-block;
+float: right;
+margin-top: 1.5em;
+margin-right:1em;
+}
+
+.payment-btn {
+  background-color: hsl(245, 75%, 52%);
+  border-radius: 20px;
+  color: white;
+  font-weight:bold;
+  margin: 1em 10%;
+  padding: 1em 0;
+  width: 80%;
+}
+
+.payment-btn:hover {
+background-color: hsl(223, 47%, 23%);
+}
+
+.cancel-order {
+  font-weight: bold;
+  padding: 1em 0 2em 0;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  width: 30%;
+  position: absolute;
+  top: 650px;
+  left: 500px;
+}
+
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
